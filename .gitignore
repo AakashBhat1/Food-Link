@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Environments
+.env
+**/.env
+.venv/
+**/.venv/
+
+# Build outputs
+dist/
+**/dist/
+
+# IDE/Tooling files
+.vscode/
+.idea/
+.codex-logs/
+.playwright-cli/
+output/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
